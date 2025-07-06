@@ -13,6 +13,7 @@ This Python script automates the process of checking network connectivity to a l
 
 ## How to Use
 * Input hostnames into hostnames.txt (file must be in the same directory as Hostname_Lookup.py)
+* Each hostname must have its own individual line entry
 * Run Hostname_Lookup.py
 
 ### Prerequisites
