@@ -1,0 +1,13 @@
+--- Ping Results from hostnames.txt ---
+
+  google.com: REACHABLE
+  weather.com: REACHABLE
+  microcenter.com: UNREACHABLE
+    Output:     Packets: Sent = 2, Received = 0, Lost = 2 (100% loss),
+  linkedin.com: REACHABLE
+  twitter.com: REACHABLE
+  youtube.com: REACHABLE
+  Instagram.com: REACHABLE
+  mail.google.com: REACHABLE
+
+--- End of Results ---

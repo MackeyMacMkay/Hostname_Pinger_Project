@@ -1,0 +1,8 @@
+google.com
+weather.com
+microcenter.com
+linkedin.com
+twitter.com
+youtube.com
+Instagram.com
+mail.google.com
